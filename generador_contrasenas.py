@@ -20,7 +20,7 @@ def generar_contrasena():
 
 def run():
     contrasena = generar_contrasena()
-    print("Tu nueva contrasena es: "+ contrasena)
+    print("Contraseña generada": "+ contrasena)
 
 
 
