@@ -27,3 +27,4 @@ elif opcion == 3:
     
 else:
     print("Elige una opcion correcta")
+    opcion = int(input(menu))
